@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import { useKeycloak } from '@react-keycloak/web';
 
 function App() {
   return (
